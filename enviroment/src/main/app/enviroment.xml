@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 			path="/" doc:name="HTTP" />
 
 		<set-payload
-			value="${name}"
+			value="Name : ${name}"
 			doc:name="Set Payload" />
 	</flow>
 </mule>
