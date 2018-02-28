@@ -1,4 +1,5 @@
 <classpath>
+  <classpathentry kind="src" path="src/main/api" excluding="**/*.java"/>
   <classpathentry kind="src" path="src/main/app" excluding="**/*.java"/>
   <classpathentry kind="src" path="src/main/java"/>
   <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
